@@ -10383,6 +10383,19 @@ body {
   font-size: 16px;
 }
 
+.buttonGame {
+  position: absolute;
+  right: 50px;
+  top: 20px;
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
 .signup-section {
   padding: 10rem 0;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000000 100%), url("../assets/img/bg-signup.jpg");
