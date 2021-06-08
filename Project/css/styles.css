@@ -495,6 +495,15 @@ mark,
   border-top:14px solid #FFFFFF;
 }
 
+.img-fluid4 {
+  max-width: 100%;
+  height: auto;
+  border-right:64px solid #FFFFFF;
+  border-left:64px solid #FFFFFF;
+  border-bottom:18px solid #FFFFFF;
+  border-top:18px solid #FFFFFF;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
